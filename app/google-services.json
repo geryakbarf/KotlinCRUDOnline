@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631554027157",
+    "firebase_url": "https://wtfforum-app.firebaseio.com",
+    "project_id": "wtfforum-app",
+    "storage_bucket": "wtfforum-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631554027157:android:c9c764aeb9bd8b1f",
+        "android_client_info": {
+          "package_name": "com.erg.geryakbar.kotlin_crud_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631554027157-4qo2sm97etctl94fph922kpckrh55b9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABt-uxCxnDTX-AbSXXptpwGbndqpQRJUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
